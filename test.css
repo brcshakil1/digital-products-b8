@@ -1,0 +1,14 @@
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.test {
+    color: rgb(37, 181, 230);
+    cursor: url("https://em-content.zobj.net/thumbs/120/google/350/squinting-face-with-tongue_1f61d.png"),auto;
+}
