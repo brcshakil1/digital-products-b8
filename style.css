@@ -159,7 +159,7 @@ a{
     color: #fff;
     display: flex;
     justify-content: space-around;
-    padding: 50px 0;
+    padding: 70px 0;
     
 }
 
@@ -203,5 +203,5 @@ hr {
 .copy-right {
     color: #fff;
     text-align: center;
-    padding: 10px;
+    padding: 20px;
 }
